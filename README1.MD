@@ -1,5 +1,5 @@
 Hola.
 
-Este es el archivo README1 del repositorio repositoryCurso, de la rama develop.
+Este es el archivo README1 del repositorio repositoryCurso, de la rama master.
 
 Adiós.
